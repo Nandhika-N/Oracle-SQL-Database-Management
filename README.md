@@ -40,10 +40,9 @@ Based on your group’s Assignment 1 Conceptual model, your marker's feedback, y
 * **Database Comments:** All attributes must be commented in the database (i.e., the comments must be part of the table structure, not simply comments in the schema file). 
 * **Constraints:** Check clauses/look up tables must be applied to attributes where appropriate. 
 * **Legend:** You **MUST** include the legend as part of your model. Please edit the legend panel to show your group name.
-* **Reference Material:** Please carefully check slide 33 from the Logic Modelling Topic 5 recording on Ed and ensure you are following the steps listed.
 
 ### Task 3: Generate the Schema for the Database
-Generate the schema for the database in Oracle Data Modeler and use the schema to create the database in your Oracle account (this should be tested in your individual Oracle accounts—a group Oracle account is not available).
+Generate the schema for the database in Oracle Data Modeler and use the schema to create the database in your Oracle account (this should be tested in your individual Oracle accounts if a group Oracle account is not available).
 
 The only edit you are permitted to carry out to the generated schema file is to add header comment/s containing your details (group/members names) and the commands to spool/echo your run of the script. Ensure that:
 * You capture the output of the run of your schema statements using the `spool` command.
