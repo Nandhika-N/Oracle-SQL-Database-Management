@@ -1,12 +1,4 @@
-SQL> 
-SQL> -- Group G18
-SQL> -- student id: 36385379
-SQL> -- student name: Yongseok Kwon
-SQL> -- student id: 32527942
-SQL> -- student name: Nandhika Nelluri
-SQL> 
-SQL> 
-SQL> 
+
 SQL> DROP TABLE BOOKING CASCADE CONSTRAINTS 
   2  ;
 
