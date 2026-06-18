@@ -6,14 +6,6 @@
 set echo on
 SPOOL mf_schema_output.txt
 
--- Group G18
--- student id: 36385379
--- student name: Yongseok Kwon
--- student id: 32527942
--- student name: Nandhika Nelluri
-
-
-
 DROP TABLE BOOKING CASCADE CONSTRAINTS 
 ;
 
